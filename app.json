@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "jarvis",
+    "slug": "snack-f5b3b07b-c9bf-4d83-a0ea-27f433386c87",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.veardown.snackf5b3b07bc9bf4d83a0ea27f433386c87"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95398a59-10a3-475c-9315-6c79b7303b70"
+      }
+    }
+  }
+}
